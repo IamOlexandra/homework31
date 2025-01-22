@@ -1,0 +1,24 @@
+body {
+    padding-top: 54px;
+    padding-left: 56px;
+}
+div {
+    width: 100px;
+    height: 100px;
+}
+.first {
+    background-color: #FF8888;
+}
+.second {
+    background-color: #7E8AEB;
+    position: relative;
+    left: 60px;
+    bottom: 40px;
+    z-index: 1;
+}
+.third {
+    background-color: #4DEF99;
+    position: relative;
+    left: 120px;
+    bottom: 80px;
+}
